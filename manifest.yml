@@ -1,11 +1,13 @@
 ---
-name: Example VNC App
+name: Meshalyzer
 icon: fa://desktop
 category: Interactive Apps
 subcategory: GUIs
 role: batch_connect
 description: |
-  This app will launch the [Example VNC App] GUI on the [Quest cluster].
+  This app will launch the [Meshalyzer] GUI on the [Quest cluster].
 
-  [Example VNC App]: https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=2234
-  [Quest cluster]: https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/index.html
+  [Meshalyzer]: https://git.opencarp.org/openCARP/meshalyzer/-/tree/272ade317cc3d452a92dc3ba6c18babbbd6b50c1/
+  [Quest cluster]: https://rcdsdocs.it.northwestern.edu/systems/quest/quest.html
+
+
